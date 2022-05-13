@@ -62,3 +62,11 @@ small {
 #mongo_small {
 	padding-left: 6rem;
 }
+
+.carousel-caption {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+	border: solid #5637dd;
+}
