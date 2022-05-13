@@ -50,3 +50,15 @@ a:hover {
 small {
 	padding-left: 1rem;
 }
+
+#bootstrap_small {
+	padding-left: 3.5rem;
+}
+
+#git_small {
+	padding-left: 3.5rem;
+}
+
+#mongo_small {
+	padding-left: 6rem;
+}
